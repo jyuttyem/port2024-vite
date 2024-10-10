@@ -37,34 +37,34 @@
     margin-right: 20px;
 }
 .pavo__item.p1 {
-    background-color: var(--subBg100);
+    background-color: #1A2737;
 }
 .pavo__item.p2 {
-    background-color: var(--subBg200);
+    background-color: #3F4E55;
 }
 .pavo__item.p3 {
-    background-color: var(--subBg300);
+    background-color: #78ADCC;
 }
 .pavo__item.p4 {
-    background-color: var(--subBg400);
+    background-color: #1C84A1;
 }
 .pavo__item.p5 {
-    background-color: var(--subBg500);
+    background-color: #68050A;
 }
 .pavo__item.p6 {
-    background-color: var(--subBg100);
+    background-color: #222222;
 }
 .pavo__item.p7 {
-    background-color: var(--subBg200);
+    background-color: #E9D65D;
 }
 .pavo__item.p8 {
-    background-color: var(--subBg300);
+    background-color: #E8B1D1;
 }
 .pavo__item.p9 {
-    background-color: var(--subBg400);
+    background-color: #AED7D3;
 }
 .pavo__item.p10 {
-    background-color: var(--subBg500);
+    background-color: #739CD2;
 }
 .pavo__item .num {
     font-size: 2rem;
