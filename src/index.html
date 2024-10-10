@@ -10,16 +10,39 @@
 <body>
     <div id="skip">
         <a href="#header">헤더 영역 바로가기</a>
-        <a href="#intro">소개 영역 바로가기</a>
-        <a href="#skill">취미 영역 바로가기</a>
+        <a href="#job">소개 영역 바로가기</a>
+        <a href="#hobby">취미 영역 바로가기</a>
         <a href="#site">사이트 영역 바로가기</a>
-        <a href="#port">노래 영역 바로가기</a>
+        <a href="#pavo">노래 영역 바로가기</a>
         <a href="#contact">연락처 영역 바로가기</a>
     </div>
     <!-- //skip -->
 
     <header id="header" role="banner">
-        header
+        <div class="header__inner">
+            <div class="header__logo">
+                <a href="#">jyuttyem<em>mokkkol</em></a>
+            </div>
+            <nav class="header__nav" role="navigation" aria-label="메인 메뉴">
+                <ul>
+                    <li><a href="#intro">about me</a></li>
+                    <li><a href="#job">job</a></li>
+                    <li><a href="#hobby">my hobby</a></li>
+                    <li><a href="#pavo">favorite song</a></li> 
+                    <li><a href="#contact">contact</a></li>
+                </ul>
+            </nav>
+            <div 
+                class="header__nav__mobile" 
+                id="headerToggle" 
+                aria-controls="primary-menu" 
+                aria-expanded="false" 
+                role="button" 
+                tabindex="0"
+            >
+                <span></span>
+            </div>
+        </div>
     </header>
     <!-- //header -->
 
@@ -29,20 +52,20 @@
         </section>
         <!-- //intro -->
     
-        <section id="skill">
-            skill
+        <section id="job">
+            job
         </section> 
-        <!-- //skill -->
+        <!-- //job -->
     
         <section id="site">
             site
         </section>
         <!-- //site -->
     
-        <section id="port">
-            port
+        <section id="pavo">
+            pavo
         </section>
-        <!-- //port -->
+        <!-- //pavo -->
     
         <section id="contact">
             contact
