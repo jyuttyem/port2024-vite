@@ -4,3 +4,4 @@ export default {
         outDir: "../public",
     },
 };
+

@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "start chrome && vite",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -15,4 +15,5 @@
     "@studio-freight/lenis": "^1.0.42",
     "gsap": "^3.12.5"
   }
+  
 }
