@@ -37,10 +37,13 @@
     margin-right: 20px;
 }
 .pavo__item.p1 {
-    background-color: #1A2737;
+    background-color: #486b96;git add .
+git commit -m "🤓 사이트 완료"
+git push -u origin main
+출처: https://webstoryboy.co.kr/1929 [WEBSTORYBOY:티스토리]
 }
 .pavo__item.p2 {
-    background-color: #3F4E55;
+    background-color: #708a96;
 }
 .pavo__item.p3 {
     background-color: #78ADCC;
@@ -49,10 +52,10 @@
     background-color: #1C84A1;
 }
 .pavo__item.p5 {
-    background-color: #68050A;
+    background-color: #e56e74;
 }
 .pavo__item.p6 {
-    background-color: #222222;
+    background-color: #808080;
 }
 .pavo__item.p7 {
     background-color: #E9D65D;
